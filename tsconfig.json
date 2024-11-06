@@ -3,7 +3,7 @@
     "module": "esnext",
     "target": "es2015",
     "sourceMap": true,
-    "moduleResolution": "node16",
+    "moduleResolution": "node20",
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,
     "noUnusedLocals": true,
